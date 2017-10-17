@@ -30,3 +30,4 @@ bin/stanford-core-nlp-minimal
 db/data/temp/*.json
 .pid
 temp/content/*
+node_modules
